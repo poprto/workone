@@ -1,0 +1,5 @@
+GET https://study.duyiedu.com/api/user/profile
+
+{
+    authorization:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyODI1NWI0ODRjYzZiMDU0NzlhZjYwZiIsImlhdCI6MTY5MzU0MzEzNiwiZXhwIjoxNjk0MTQ3OTM2fQ.ZapIrfkOnMOKoWu8TSKTnECzI_G4Ii-qxgeENVANtjI"
+}
