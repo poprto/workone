@@ -22,7 +22,7 @@ LandForm.onsubmit = async function (e) {
 
   if (respen.code === 0) {
     alert("注册成功，点击跳转");
-    location.href = "/静态页面/index.html";
+    location.href = "./index.html";
   } else {
     alert("登录失败，账号或密码错误");
   }
